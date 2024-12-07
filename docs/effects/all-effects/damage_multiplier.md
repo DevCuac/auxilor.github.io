@@ -1,4 +1,4 @@
-# `damage_multiplier`
+# `damtraca`
 #### Triggered Effect
 
 Multiplies incoming or outgoing damage from any damage trigger
